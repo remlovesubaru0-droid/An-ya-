@@ -17,26 +17,21 @@ const apiClient = axios.create({
 const STATIC_CAPTION = 
 `🎀 ••••••Owner Info•••••🐇
 
-🦢 𝖭𝖺𝗆𝖾 : Mr.king 🌸🐇(Roni)
+🦢 𝖭𝖺𝗆𝖾 : Su baru
 🐦‍🔥 𝖱𝗈𝗅𝖾 : 𝖠𝖽𝗆𝗂𝗇 / 𝖮𝗐𝗇𝖾𝗋
 🐇 𝖡𝗂𝗈 : 𝖲𝗂𝗇𝗀𝗅𝖾 ⚡
-🪐 Messenger Id : https://m.me/masterjiraya001
-🎮 ━━ Mlbb Info ━━🎮
-
-🆔 𝖨𝖦𝖭 : 0xMr_King
-🔢 𝖨𝖖 : 2251640751 (19633)
-⚔️ 𝖬𝖺𝗍𝖼𝗁𝖾𝗌 : Played for fun 
-👍 𝖫𝗂𝗄𝖾𝗌 : Day by day Up and Uping
-🏅 𝖧𝖾𝗋𝗈𝖾𝗌 : no need for  those Mr.king 🌸🐇 Is a legend 🗿
-🛡️ MesengerGc :https://m.me/j/NmI8lyXRwjQpyHbg/?send_source=gc%3Acopy_invite_link_t 
-
+🪐 Messenger Id : https://m.me/Naruhina000
+.....Info......
+📳No. Fuck you 
+🌚Crush : Anya 😭
+Hobby: Gc ma thrkipan 🌚 
 🪽••••••••••••••🪽`;
 
 module.exports.config = {
     name: "owner",
     aliases: ["admin", "info"],
     version: "2.0.0",
-    author: "Mr.king 🌸🐇",
+    author: "Su baru",
     role: 0,
     category: "info",
     guide: { en: "Use {p}owner to view owner info and MLBB account details." }
